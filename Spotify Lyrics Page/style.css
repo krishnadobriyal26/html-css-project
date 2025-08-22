@@ -1,0 +1,91 @@
+.big-container{
+  background-color: #da3168;
+  width: 240px;
+  height: 350px ;
+  border-radius: 10px ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.lyrics-container{
+  width: 200px;
+  height: 165px;
+  background-color: #ef3575;
+  border-radius: 10px;
+}
+.namesong{
+  
+  width: 100%;
+  height: 50px;
+}
+.lyricshindi{
+  
+  text-align: center;
+  font-family: palanquin dark;
+  
+  
+;
+
+}
+.logo{
+  
+  
+  width: 100%;
+  height: 60px;
+}
+.imgg{
+  margin-left: 20px;
+  margin-top: 10px;
+  width: 60px;
+  height: 19px;
+  
+}
+
+.linefirst{
+  margin-bottom:-6px;
+  margin-right: 50px;
+
+}
+.linesecond{
+  margin-right: 78px;
+}
+p{
+  display: block;
+  margin-top: 2px;
+  
+}
+.song-pic{
+  width: 45px;
+  height: 45px;
+}
+
+.imggsong{
+  width: 25px;
+  height: 25px;
+  margin-left: 14px;
+  margin-top: 13px;
+  ;
+}
+.namesong{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.namesinger{
+  display: block;
+}
+.nameofthesong{
+  font-size: 11px;
+  font-weight: 700;
+  font-family: Roboto;
+  margin-top: 12px;
+  margin-right: 4px;
+}
+.singerofthesong{
+  font-size: 8px;
+  margin-top:-10px;
+  font-family: Roboto;
+  
+}
